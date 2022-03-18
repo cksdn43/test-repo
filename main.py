@@ -2,4 +2,5 @@
 Touched by user2
 
 print("hello world")
-#hello ChanWoo
+print("hello ChanWoo")
+print("Nice to meet you")
