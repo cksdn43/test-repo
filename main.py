@@ -5,3 +5,5 @@ print("hello world")
 print("hello ChanWoo")
 print("Nice to meet you")
 #nice meet you
+
+print('hello ChanWoo. I'm bomi')
