@@ -7,3 +7,5 @@ print("hello ChanWoo")
 print("Nice to meet you")
 print("Hi I'm sy")
 #nice meet you
+
+print('hello ChanWoo. I'm bomi')
